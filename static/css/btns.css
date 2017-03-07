@@ -1,0 +1,21 @@
+.div_btns {
+    position : absolute;
+}
+
+
+.text_high_light {
+    background-color: yellow;
+}
+
+.div_notearea {
+    position: absolute;
+}
+
+.div_transarea {
+    position: absolute;
+}
+
+u {
+    cursor: pointer;
+    width: 217px;
+}
